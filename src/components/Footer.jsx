@@ -1,4 +1,5 @@
 import { Container, Row, Col } from 'react-bootstrap';
+import { Github } from "react-bootstrap-icons";
 
 export default function Footer () {
   const currentYear = new Date().getFullYear();
@@ -8,8 +9,15 @@ export default function Footer () {
       <Container>
         <Row>
           <Col className="text-center">
-            <p>&copy; {currentYear} Nicholas Morgan <br/>
-            <a className="git-link" href={gitHubUrl} rel='noreferrer' target="_blank">Code In Github</a></p>
+            <p>
+              <a className="git-link" 
+              href={gitHubUrl} 
+              rel='noreferrer' 
+              target="_blank">
+              <Github size='40' color='red'/>
+              <br/>
+              </a>&copy; {currentYear} Nicholas Morgan 
+            </p>
           </Col>
         </Row>
       </Container>
