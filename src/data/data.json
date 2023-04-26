@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "name": "Tribute",
+    "content": "Tribute page to someone you admire",
+    "website": "https://bocacode.com",
+    "cover": "https://picsum.photos/400/400"
+  },
+  {
+    "id": 2,
+    "name": "Kardashev Scale",
+    "content": "Scale that displays your civilizations ranking",
+    "website": "https://bocacode.com",
+    "cover": "https://picsum.photos/400/400"
+  },
+  {
+    "id": 3,
+    "name": "Blue Night in Seoul",
+    "content": "Clock Script",
+    "website": "https://bocacode.com",
+    "cover": "https://picsum.photos/400/400"
+  },
+  {
+    "id": 4,
+    "name": "About Me",
+    "content": "A piece that shows who I am",
+    "website": "https://bocacode.com",
+    "cover": "https://picsum.photos/400/400"
+  },
+  {
+    "id": 5,
+    "name": "Counter",
+    "content": "A simple react counter",
+    "website": "https://bocacode.com",
+    "cover": "https://picsum.photos/400/400"
+  },
+  {
+    "id": 6,
+    "name": "Timber Login",
+    "content": "React Login",
+    "website": "https://bocacode.com",
+    "cover": "https://picsum.photos/400/400"
+  },
+  {
+    "id": 7,
+    "name": "Quiz App",
+    "content": "A quiz that has questions about me.",
+    "website": "https://bocacode.com",
+    "cover": "https://picsum.photos/400/400"
+  }
+]
