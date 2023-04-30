@@ -15,8 +15,9 @@ export default function Footer () {
               rel='noreferrer' 
               target="_blank">
               <Github size='40' color='red'/>
+              </a> 
               <br/>
-              </a>&copy; {currentYear} Nicholas Morgan 
+              &copy; {currentYear} Nicholas Morgan
             </p>
           </Col>
         </Row>

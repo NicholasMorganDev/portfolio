@@ -4,7 +4,7 @@ export default function About () {
 
   return (
     <section>
-      <Container>
+      <Container className="main-container">
         <Row className="bg-danger">
           <Col>
             <img src='https://picsum.photos/300/300'
